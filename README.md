@@ -30,4 +30,13 @@ The dataset consists of MRI scans in `.mat` format and can be found on **Kaggle*
 7. Train **CNN classifier** on segmented tumor regions to classify tumor type.
 8. Evaluate models on test set with detailed metrics and visualization of predicted masks.
 
+## Result
+### Classification Performance by Tumor Type
+
+| Тип опухоли          | Точность | Полнота | F1-оценка | Число образцов |
+|---------------------|----------|---------|-----------|----------------|
+| Менингиома          | 0.72     | 0.66    | 0.69      | 71             |
+| Глиома              | 0.86     | 0.84    | 0.85      | 143            |
+| Опухоли гипофиза    | 0.87     | 0.97    | 0.92      | 93             |
+| **Общая точность**  |          |         | 0.84      | 307            |
 
