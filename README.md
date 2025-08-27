@@ -39,3 +39,5 @@ The dataset consists of MRI scans in `.mat` format and can be found on **Kaggle*
 | Glioma          | 0.86      | 0.84   | 0.85     | 143              |
 | Pituitary Tumor | 0.87      | 0.97   | 0.92     | 93               |
 
+<img width="1598" height="971" alt="image" src="https://github.com/user-attachments/assets/af61c80b-aa05-47c2-af0a-109baa04a37c" />
+
