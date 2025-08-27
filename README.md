@@ -21,7 +21,7 @@ The dataset consists of MRI scans in `.mat` format and can be found on **Kaggle*
 - **Dataset Management:** Kaggle
 
 ## Pipeline Overview
-1. Load and preprocess MRI images and tumor masks from `.mat` files.
+1. Load and preprocess MRI images and ground truth masks from `.mat` files.
 2. Resize images and masks to **128x128** pixels and normalize pixel values.
 3. Split data into training, validation, and test sets.
 4. Augment training data with horizontal flipping.
