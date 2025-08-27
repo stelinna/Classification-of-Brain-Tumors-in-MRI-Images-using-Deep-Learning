@@ -17,8 +17,8 @@ The dataset consists of MRI scans in `.mat` format and can be found on **Kaggle*
 ## Tech Stack
 - **Programming Language:** Python  
 - **Libraries:** TensorFlow/Keras, OpenCV, NumPy, scikit-learn, Matplotlib, skimage, h5py  
-- **Development Environment:** Google Colab with TPU acceleration  
-- **Dataset Management:** Google Drive  
+- **Development Environment:** Kaggle GPU T4 x2
+- **Dataset Management:** Kaggle
 
 ## Pipeline Overview
 1. Load and preprocess MRI images and tumor masks from `.mat` files.
